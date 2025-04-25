@@ -5,7 +5,7 @@ public class RunState
 {
   public static void RunStatePattern()
   {
-    var doc = new Document(UserRoles.Admin);
+    var doc = new Document(UserRoles.Editor);
     Console.WriteLine("Document state: {0}", doc.State); 
 
     doc.Publish();
