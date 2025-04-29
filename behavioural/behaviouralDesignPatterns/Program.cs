@@ -11,7 +11,8 @@
 //using behaviouralDesignPatterns.src.Mediator;
 //using behaviouralDesignPatterns.src.MediatorWithObserver;
 //using behaviouralDesignPatterns.src.ChainOfResponsibility;
-using behaviouralDesignPatterns.src.Visitor;
+//using behaviouralDesignPatterns.src.Visitor;
+using behaviouralDesignPatterns.src.Interpreter;
 
 //RunMemento.RunMementoPattern();
 //RunState.RunStatePattern();
@@ -25,4 +26,5 @@ using behaviouralDesignPatterns.src.Visitor;
 //RunMediator.RunMediatorPattern();
 //RunMediatorWithObserver.RunMediatorWithObserverPattern();
 //RunChainOfResponsibility.RunChainOfResponsibilityPattern();
-RunVisitor.RunVisitorPattern();
+//RunVisitor.RunVisitorPattern();
+RunInterpreter.RunInterpreterPatter();
