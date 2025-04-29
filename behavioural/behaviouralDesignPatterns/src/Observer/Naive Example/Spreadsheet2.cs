@@ -18,6 +18,7 @@ public class Spreadsheet2
     }
     
     Console.WriteLine("Total: {0}", sum);
+    _total = sum;
     return sum;
   }
 }

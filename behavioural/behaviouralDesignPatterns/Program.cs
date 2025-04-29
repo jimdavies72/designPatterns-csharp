@@ -1,13 +1,17 @@
 ﻿
-using behaviouralDesignPatterns.src.Memento;
-using behaviouralDesignPatterns.src.State;
-using behaviouralDesignPatterns.src.Strategy;
-using behaviouralDesignPatterns.src.Iterator;
-using behaviouralDesignPatterns.src.Command;
-using behaviouralDesignPatterns.src.CommandUndoable;
-using behaviouralDesignPatterns.src.Template.StrategyPattern;
-using behaviouralDesignPatterns.src.Template.TemplateMethod;
-using behaviouralDesignPatterns.src.Observer;
+//using behaviouralDesignPatterns.src.Memento;
+//using behaviouralDesignPatterns.src.State;
+//using behaviouralDesignPatterns.src.Strategy;
+//using behaviouralDesignPatterns.src.Iterator;
+//using behaviouralDesignPatterns.src.Command;
+//using behaviouralDesignPatterns.src.CommandUndoable;
+//using behaviouralDesignPatterns.src.Template.StrategyPattern;
+//using behaviouralDesignPatterns.src.Template.TemplateMethod;
+//using behaviouralDesignPatterns.src.Observer;
+//using behaviouralDesignPatterns.src.Mediator;
+//using behaviouralDesignPatterns.src.MediatorWithObserver;
+//using behaviouralDesignPatterns.src.ChainOfResponsibility;
+using behaviouralDesignPatterns.src.Visitor;
 
 //RunMemento.RunMementoPattern();
 //RunState.RunStatePattern();
@@ -17,4 +21,8 @@ using behaviouralDesignPatterns.src.Observer;
 //RunCommandUndoable.RunCommandUndoablePattern();
 //RunTemplateStrategy.RunTemplateStrategyPattern();
 //RunTemplateMethod.RunTemplateMethodPattern();
-RunObserver.RunObserverPattern();
+//RunObserver.RunObserverPattern();
+//RunMediator.RunMediatorPattern();
+//RunMediatorWithObserver.RunMediatorWithObserverPattern();
+//RunChainOfResponsibility.RunChainOfResponsibilityPattern();
+RunVisitor.RunVisitorPattern();

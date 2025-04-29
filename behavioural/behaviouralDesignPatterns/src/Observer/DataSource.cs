@@ -1,3 +1,4 @@
+// Concrete Subject
 // Manages only the values and not the observers
 namespace behaviouralDesignPatterns.src.Observer;
 
