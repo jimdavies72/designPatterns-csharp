@@ -1,5 +1,5 @@
-﻿﻿# Repo: designPatterns-csharp
-![Static Badge](https://img.shields.io/badge/Dev_status-Development-green)
+# Repo: designPatterns-csharp
+![Static Badge](https://img.shields.io/badge/Dev_status-Complete-blue)
 
 ## Reason: C# Tutorial 
 
